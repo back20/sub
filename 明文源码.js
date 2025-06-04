@@ -1,5 +1,5 @@
 
-let 快速订阅访问入口 = ['auto'];
+let 快速订阅访问入口 = ['tk'];
 let addresses = [];
 let addressesapi = [	'https://raw.githubusercontent.com/back20/sub/main/addressesapi.txt?proxyip=true', //可参考内容格式 自行搭建。
 	                'https://raw.githubusercontent.com/back20/sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
